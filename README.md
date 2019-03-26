@@ -5,7 +5,7 @@ Simulating the performance of different modulation schemes:
 - [**QPSK**](#quadrature-phase-shift-keying-modulation-qpsk)
 - [**FSK**](#frequency-shift-keying-fsk)
 - [**QAM**](#quadrature-amplitude-modulation-qam)
-And add Additive White Gaussian Noise (AWGN environment) to evaluate the performance.
+- And add Additive White Gaussian Noise (AWGN environment) to evaluate the performance.
 
 ## Simulation Environment
 These instructions for all the modulation schemes 
