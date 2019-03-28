@@ -9,6 +9,10 @@ Simulating the performance of different modulation schemes:
 And add Additive White Gaussian Noise (AWGN environment) to evaluate the performance.
 And simulate with and without raised consine filter.
 
+As a part of **Digital Communications** Course
+- Submitted to **Dr.Hazem Soliman**
+- Submitted by **Abdelrahman Sayed Kaseb**
+
 ## Simulation Environment
 These instructions for all the modulation schemes 
 - Open MATLAB, then click on "Simulink", then click one "New Model"
